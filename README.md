@@ -6,6 +6,7 @@ At the time, there was the Covid19 outbreak and school was affected. During the 
 1. [First HRPS App](https://github.com/Muhazerin/cz2002-Assignment)
 
 # Credits
+My team who worked on the FIrst HRPS App with me  
 * [masyraaf](https://github.com/masyraaf)
 * [Skyfall222](https://github.com/Skyfall222)
 * [KohTongLiang](https://github.com/KohTongLiang)
