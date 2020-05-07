@@ -4,6 +4,7 @@ At the time, there was the Covid19 outbreak and school was affected. During the 
 
 # Different HRPS projects
 1. [First HRPS App](https://github.com/Muhazerin/cz2002-Assignment)
+2. [HRPS Redefined] (https://github.com/Muhazerin/HRPS-Redefined)
 
 # Credits
 My team who worked on the FIrst HRPS App with me  
