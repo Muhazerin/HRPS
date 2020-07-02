@@ -5,6 +5,7 @@ At the time, there was the Covid19 outbreak and school was affected. So, during 
 # Different HRPS projects
 1. [First HRPS App](https://github.com/Muhazerin/cz2002-Assignment)  
 2. [HRPS Redefined](https://github.com/Muhazerin/HRPS-Redefined)
+3. [HRPS Redefined with Dagger 2](https://github.com/Muhazerin/HRPS-Redefined-with-Dagger2)
 
 # Credits
 My team who worked on the FIrst HRPS App with me  
