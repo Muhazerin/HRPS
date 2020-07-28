@@ -1,6 +1,6 @@
 # HRPS
 HRPS (Hotel Reservation and Payment System) was a Java project that my team and I made during university.  
-At the time, there was the Covid19 outbreak and school was affected. So, during the long term break, I decide to expand on this project.
+At the time, there was the Covid19 outbreak and school was affected. So, during the long break, I decide to expand on this project.
 
 # Different HRPS projects
 | Project Name | Description |
